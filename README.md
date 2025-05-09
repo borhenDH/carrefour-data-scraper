@@ -1,6 +1,4 @@
-# Create a new markdown cell in your notebook and paste this content
 
-"""
 # Carrefour Tunisia Web Scraper
 
 A robust web scraping tool that extracts detailed product information from Carrefour Tunisia's website, using Selenium and BeautifulSoup to navigate and collect comprehensive product data.
@@ -83,4 +81,4 @@ A robust web scraping tool that extracts detailed product information from Carre
 - The scraper will automatically skip completed categories on subsequent runs
 - Check the log file for detailed error information
 - For specific categories that need re-scraping, use targeted rescraping
-"""
+
